@@ -1,6 +1,6 @@
 {
-  "name": "@classpagetemplate",
-  "version": "Alpha0.1",
-  "homepage": "https://yappy2000d.github.io/ClassPageTemplate"
-  "repository": "yappy2000d/ClassPageTemplate"
+  "name" : "@classpagetemplate",
+  "version" : "Alpha0.1",
+  "homepage" : "https://yappy2000d.github.io/ClassPageTemplate",
+  "repository" : "yappy2000d/ClassPageTemplate"
 }
