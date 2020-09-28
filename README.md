@@ -9,3 +9,9 @@ A class page template for collaborative development.
 this is results presented [page](https://yappy2000d.github.io/ClassPageTemplate/).
 
 ## Introduction
+
+## Rule
+
+### to user
+
+### to developer
