@@ -6,3 +6,4 @@ A class page template for collaborative development.
 
 ----
 
+this is results presented [page](yappy2000d.github.io/ClassPageTemplate).
