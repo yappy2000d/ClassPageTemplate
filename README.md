@@ -11,10 +11,3 @@ this is results presented [page](https://yappy2000d.github.io/ClassPageTemplate/
 
 ## Introduction
 
-## Rule
-Although this project does not specify a license, all those specified below must comply with the following agreement. By using it, you agree to abide by the following terms.
-### to users
-+ Don't reprint.
-+ Don't use it to violate the law or use it for violence and pornography.
-
-### to developers
