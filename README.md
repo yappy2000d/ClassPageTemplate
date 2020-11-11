@@ -41,10 +41,10 @@ This time it’s all made statically, so it won't involve issues like JavaScript
 #### Making
 Create a blank template.
 
-![](./images/image4.png)
+![](./images/image4.PNG)
 
 Divide the block and plan the publication.
 Use HTML to create rows and columns, and CSS styles to divide blocks and positions.
 
-![](./images/image5.png)
+![](./images/image5.PNG)
 
