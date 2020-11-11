@@ -23,23 +23,28 @@ Create a static website template that introduces the class. This time I will mai
 
 ### Process
 Since my JavaScript is poor, I won't use it this time. Mainly use HTML as the framework, and then add CSS to embellish it. Because it is using a tool, there is no explanation of the grammar. It's mainly in the part of thinking and the attitude of solving problems.
+
 ![](./images/image1.jpg)
 
 #### Idea
 Original design:
 Problem
 The main reason is that I want the main menu and menu to remain on the screen, but because it requires JavaScript, I abandoned this method.
+
 ![](./images/image2.png)
 
 New idea:
 This time it’s all made statically, so it won't involve issues like JavaScript and JQuery
+
 ![](./images/image3.png)
 
 #### Making
 1. Create a blank template.
+
 ![](./images/image4.png)
 
 2. Divide the block and plan the publication.
 Use HTML to create rows and columns, and CSS styles to divide blocks and positions.
+
 ![](./images/image5.png)
 
