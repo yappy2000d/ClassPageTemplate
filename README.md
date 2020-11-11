@@ -47,4 +47,18 @@ Divide the block and plan the publication.
 Use HTML to create rows and columns, and CSS styles to divide blocks and positions.
 
 ![](./images/image5.PNG)
+![](./images/image6.PNG)
+![](./images/image7.png)
+![](./images/image8.PNG)
+![](./images/image9.PNG)
+![](./images/image10.PNG)
+![](./images/image11.png)
+![](./images/image12.png)
+![](./images/image13.png)
+![](./images/image14.png)
+![](./images/image15.PNG)
+![](./images/image16.PNG)
+![](./images/image17.PNG)
+![](./images/image18.PNG)
+![](./images/image19.PNG)
 
