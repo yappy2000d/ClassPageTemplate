@@ -39,11 +39,11 @@ This time it’s all made statically, so it won't involve issues like JavaScript
 ![](./images/image3.png)
 
 #### Making
-1. Create a blank template.
+Create a blank template.
 
 ![](./images/image4.png)
 
-2. Divide the block and plan the publication.
+Divide the block and plan the publication.
 Use HTML to create rows and columns, and CSS styles to divide blocks and positions.
 
 ![](./images/image5.png)
