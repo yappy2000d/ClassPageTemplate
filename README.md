@@ -47,8 +47,19 @@ Divide the block and plan the publication.
 Use HTML to create rows and columns, and CSS styles to divide blocks and positions.
 
 ![](./images/image5.PNG)
+
+Fill in the elements and limit the height of the button
+Problem
+I found that the top of the page could not be aligned when filling in elements
+
 ![](./images/image6.PNG)
+
+So I decided to remove the header image from the field and use displacement alignment
+
 ![](./images/image7.png)
+
+Preview:
+
 ![](./images/image8.PNG)
 ![](./images/image9.PNG)
 ![](./images/image10.PNG)
