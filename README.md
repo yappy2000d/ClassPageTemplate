@@ -58,18 +58,72 @@ So I decided to remove the header image from the field and use displacement alig
 
 ![](./images/image7.png)
 
-Preview:
+Preview
+As you can see, the banner of "綜二丁" is not aligned with the button
 
 ![](./images/image8.PNG)
+
+Guess
+During the preview, I found that the browser does not seem to support the displacement of the header.
+Idea:
+1. It may be that the browser does not eat CSS
+(Failed) So I decided to export the project first and try to open it.
+2. It may be that the browser version is too old or does not support the displacement made by Margin.
+(Speculation error) Using IE did not improve
+
 ![](./images/image9.PNG)
+
+Decide
+(Success) Use a layer of Column to add a layer of Container to force the image to indent.
+
 ![](./images/image10.PNG)
+
+Continue to add elements:
+Problem
+To make a school icon link to our school website.
+First put in an image element, because I remember that the link uses the a href attribute, so I went to the options of the image to find the option, but no matter how I found it, I couldn’t find it, so I tried to search to see if there is a Link element , I later learned that in Bootstrap 4, that is another independent element. Finally, use the Link element to wrap the picture to complete the following:
+
 ![](./images/image11.png)
+
+Add links and more elements.
+
 ![](./images/image12.png)
+
+Problem: I want to place the button in the center, but I have difficulty.
+
 ![](./images/image13.png)
+
+Idea:
+1. I intend to wrap it with a certain element. After trying, it is concluded that it is the Div element
+(Failure) Due to unfamiliar grammar, this element cannot be used effectively.
+Decide:
+Search for relevant information online. Keyword: put+button+middle
+Finally:
+After searching, I found that it is a CSS called align, so I changed Alignment to center in the options.
+
 ![](./images/image14.png)
+
+Complete picture:
+
 ![](./images/image15.PNG)
+
+Problem:
+In order to complete the effect of the small blackboard (because the original small blackboard is a picture, it means that every time you change the text above, you must redraw the picture.) The blackboard picture is changed to the background, but there is a problem that it cannot be aligned with the school picture below .
+
 ![](./images/image16.PNG)
+
+As shown in the figure: you can see an extra circle outside the school icon.
+
+Solution: Change the icon to the background of Column and put a blank Link, but the blank Link will not be clicked. Later, I found an option called Stretch, which means that it will take the length and width of the parent set as the Link the size of.
+
 ![](./images/image17.PNG)
+
+Home page is complete!!!
+As shown below:
+
 ![](./images/image18.PNG)
+
+Then comes the other tabbed parts. (Chemicals & Computer)
+
 ![](./images/image19.PNG)
 
