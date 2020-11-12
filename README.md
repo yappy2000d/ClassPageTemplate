@@ -103,21 +103,20 @@ After searching, I found that it is a CSS called align, so I changed Alignment t
 
 ![](./images/image14.png)
 
-Complete picture:
+As shown in the figure: you can see an extra circle outside the school icon.
+
+Solution: Change the icon to the background of Column and put a blank Link, but the blank Link will not be clicked. Later, I found an option called Stretch, which means that it will take the length and width of the parent set as the Link the size of.
 
 ![](./images/image15.PNG)
 
 Problem:
 In order to complete the effect of the small blackboard (because the original small blackboard is a picture, it means that every time you change the text above, you must redraw the picture.) The blackboard picture is changed to the background, but there is a problem that it cannot be aligned with the school picture below .
 
-![](./images/image16.PNG)
-
-As shown in the figure: you can see an extra circle outside the school icon.
-
-Solution: Change the icon to the background of Column and put a blank Link, but the blank Link will not be clicked. Later, I found an option called Stretch, which means that it will take the length and width of the parent set as the Link the size of.
-
 Home page is complete!!!
 As shown below:
+
+![](./images/image16.PNG)
+
 
 Copy the homepage and make slight modifications to complete the information group page.
 Then comes the other tabbed parts. (Chemicals & Computer)
