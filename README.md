@@ -116,14 +116,21 @@ As shown in the figure: you can see an extra circle outside the school icon.
 
 Solution: Change the icon to the background of Column and put a blank Link, but the blank Link will not be clicked. Later, I found an option called Stretch, which means that it will take the length and width of the parent set as the Link the size of.
 
-![](./images/image17.PNG)
-
 Home page is complete!!!
 As shown below:
 
+Copy the homepage and make slight modifications to complete the information group page.
+Then comes the other tabbed parts. (Chemicals & Computer)
+
+![](./images/image17.PNG)
+
+Add pictures and other elements, the most complete is shown in the figure:
+
 ![](./images/image18.PNG)
 
-Then comes the other tabbed parts. (Chemicals & Computer)
+In the same way, complete the paging of the chemical group:
 
 ![](./images/image19.PNG)
 
+Finally, add a small website icon and publish it to the GitHub Page
+Website: https://yappy2000d.github.io/ClassPageTemplate/
