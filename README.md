@@ -123,7 +123,7 @@ Then comes the other tabbed parts. (Chemicals & Computer)
 
 ![](./images/image17.PNG)
 
-Add pictures and other elements, the most complete is shown in the figure:
+Add pictures and other elements.Complete is shown in the figure:
 
 ![](./images/image18.PNG)
 
